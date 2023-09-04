@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/0_ZomebieSuvival/Scenes/0__Intro__.unity
+    guid: 34ac48daa3066d54d989f94de1dfc9ab
+  - enabled: 1
+    path: Assets/0_ZomebieSuvival/Scenes/1__Main__.unity
+    guid: 5a7de32897061df4cb1ba825af1898e1
+  - enabled: 1
+    path: Assets/0_ZomebieSuvival/Scenes/2__Game__.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
