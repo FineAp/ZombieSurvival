@@ -39,6 +39,9 @@ Now, test your courage, protect the city, and reclaim hope for humanity.
 But be cautious. What awaits you may be ruthless zombies and an endless abyss of darkness.
 Play 'ZombieSurvival' and embark on the quest for the last hope.
 
+
 KOREA BLOG: https://blog.naver.com/dlgidgkr/223202120188
+
+BUILD LINK: https://drive.google.com/drive/folders/141wx4CfYfRtkhr6NCCfdsUFqc3zxcuhO?usp=drive_link
 
 ![2](https://github.com/FineAp/ZombieSurvival/assets/143973266/1b737737-0f14-4c5e-9842-405a088ae7e7)
