@@ -1,5 +1,4 @@
 # ZombieSuvival
-'ZombieSurvival' is my second game made with unity(pc)
 
 Hello!
 
